@@ -1,0 +1,101 @@
+tweet, sentiment_label
+b'RT @umarauna: @_amustapha talking about HTML 5 ALC 4.0 MEETUP 1.0 KANO\n\n@auwalms @andela_alc\n#GrowWithGoogle #150DaysOfALC4 https://t.co/eJ\xe2\x80\xa6', Negative
+b'RT @umarauna: @_amustapha talking about HTML 5 ALC 4.0 MEETUP 1.0 KANO\n\n@auwalms @andela_alc\n#GrowWithGoogle #150DaysOfALC4 https://t.co/eJ\xe2\x80\xa6', Negative
+b'RT @andela_alc: Good Morning! \xf0\x9f\x99\x8c\xf0\x9f\x8f\xbe\n\nOur meetup in @Andela_Kenya is currently happening! \xf0\x9f\x94\xa5\n\nWe kicked things off with some warmup sessions led\xe2\x80\xa6', Positive
+b'RT @andela_alc: Good Morning! \xf0\x9f\x99\x8c\xf0\x9f\x8f\xbe\n\nOur meetup in @Andela_Kenya is currently happening! \xf0\x9f\x94\xa5\n\nWe kicked things off with some warmup sessions led\xe2\x80\xa6', Positive
+b'RT @GoddyGCFR: Coding for the Web ....\n. @paritieltd @mistamd01 @king_eshiebor @am_jaykon\n@andela_alc @deenxyz\n@googleafrica @dscibbul\n@GDG\xe2\x80\xa6', Negative
+b'RT @GoddyGCFR: Coding for the Web ....\n. @paritieltd @mistamd01 @king_eshiebor @am_jaykon\n@andela_alc @deenxyz\n@googleafrica @dscibbul\n@GDG\xe2\x80\xa6', Negative
+b'RT @adroitcode: D16  - 17: Worked on an old project refactoring and making little changes. Also my JS learning tracks continues after a sho\xe2\x80\xa6', Negative
+b'RT @adroitcode: D16  - 17: Worked on an old project refactoring and making little changes. Also my JS learning tracks continues after a sho\xe2\x80\xa6', Negative
+b'RT @adroitcode: D16  - 17: Worked on an old project refactoring and making little changes. Also my JS learning tracks continues after a sho\xe2\x80\xa6', Negative
+b'RT @adroitcode: D16  - 17: Worked on an old project refactoring and making little changes. Also my JS learning tracks continues after a sho\xe2\x80\xa6', Negative
+b'D16  - 17: Worked on an old project refactoring and making little changes. Also my JS learning tracks continues aft\xe2\x80\xa6 https://t.co/djMLFX8UPO', Negative
+b'RT @bebums: How was the #ALCwithGoogle  meetup in your location yesterday?\n@Google @Andela_Nigeria @pluralsight \n#150DaysOfALC4', Negative
+b'@silikhesilas @150DaysOfALC4 @Andela_Kenya @googleafrica @pluralsight @andela_alc This is nice\xf0\x9f\x92\xaa\xf0\x9f\x92\xaa', Negative
+b'RT @Ritzy_Rosabel: Day  \xf0\x9f\x94\xb311/150\nPractice... practice...practice...\n#150DaysOfALC4 \n#ALCwithGoogle \n#GrowWithGoogle\n#webdeveloper\n#JavaScrip\xe2\x80\xa6', Negative
+b'@GodwinAgedah @150DaysOfALC4 @RWD nice Godwin\xf0\x9f\x92\xaa\xf0\x9f\x92\xaa', Positive
+b'RT @ejallow12: The deeper you go the more you realize that there is more to learn. I completed the HTML path  next jump is either C.S.S or\xe2\x80\xa6', Positive
+b'RT @brytebee: #150DaysOfALC4 4d past wk I av bn tryin 2familiarize myself wit java control flow n loops n it turns out dy were nt as compli\xe2\x80\xa6', Negative
+b'RT @Ritzy_Rosabel: Day  \xf0\x9f\x94\xb311/150\nPractice... practice...practice...\n#150DaysOfALC4 \n#ALCwithGoogle \n#GrowWithGoogle\n#webdeveloper\n#JavaScrip\xe2\x80\xa6', Negative
+b'RT @Kol4grin04: Went off track to learn some fundamental part of JavaScript and i was able to learn some vital things esp. handling of cond\xe2\x80\xa6', Positive
+b'RT @I_am_dextar: Day 0\xe2\x83\xa31\xe2\x83\xa3 of my #150DaysOfCode in android development with Java. Figured out catching and throwing exceptions in Java. Impl\xe2\x80\xa6', Positive
+b'@Je_suis_Franc @150DaysOfALC4 @pluralsight @Andela_Nigeria @andela_alc @googleafrica Wow nice one\xf0\x9f\x92\xaa\xf0\x9f\x92\xaa', Positive
+b'@oceandiaali @150DaysOfALC4 @nikmolnar @Andela_Nigeria @pluralsight @googleafrica @jonflanders @ShawnWildermuth\xe2\x80\xa6 https://t.co/2So182H6oC', Negative
+b'RT @ejallow12: The deeper you go the more you realize that there is more to learn. I completed the HTML path  next jump is either C.S.S or\xe2\x80\xa6', Positive
+b'The deeper you go the more you realize that there is more to learn. I completed the HTML path  next jump is either\xe2\x80\xa6 https://t.co/UkVlI1jI8h', Positive
+b'RT @brytebee: #150DaysOfALC4 4d past wk I av bn tryin 2familiarize myself wit java control flow n loops n it turns out dy were nt as compli\xe2\x80\xa6', Negative
+b'RT @abigail_anioke: I can imagine, recently am soo addicted and spending all the day on @pluralsight.\n\nReally advancing in knowledge.... Th\xe2\x80\xa6', Negative
+b'RT @Ritzy_Rosabel: Day  \xf0\x9f\x94\xb311/150\nPractice... practice...practice...\n#150DaysOfALC4 \n#ALCwithGoogle \n#GrowWithGoogle\n#webdeveloper\n#JavaScrip\xe2\x80\xa6', Negative
+b'RT @brytebee: #150DaysOfALC4 4d past wk I av bn tryin 2familiarize myself wit java control flow n loops n it turns out dy were nt as compli\xe2\x80\xa6', Negative
+b'#150DaysOfALC4 4d past wk I av bn tryin 2familiarize myself wit java control flow n loops n it turns out dy were nt\xe2\x80\xa6 https://t.co/CFrDbQZ1BC', Negative
+b'RT @Ritzy_Rosabel: Day  \xf0\x9f\x94\xb311/150\nPractice... practice...practice...\n#150DaysOfALC4 \n#ALCwithGoogle \n#GrowWithGoogle\n#webdeveloper\n#JavaScrip\xe2\x80\xa6', Negative
+b'Day  \xf0\x9f\x94\xb311/150\nPractice... practice...practice...\n#150DaysOfALC4 \n#ALCwithGoogle \n#GrowWithGoogle\n#webdeveloper\xe2\x80\xa6 https://t.co/oj3YMK8fxJ', Negative
+b'RT @Kol4grin04: Went off track to learn some fundamental part of JavaScript and i was able to learn some vital things esp. handling of cond\xe2\x80\xa6', Positive
+b'Went off track to learn some fundamental part of JavaScript and i was able to learn some vital things esp. handling\xe2\x80\xa6 https://t.co/KJDm2iJau1', Positive
+b'RT @I_am_dextar: Day 0\xe2\x83\xa31\xe2\x83\xa3 of my #150DaysOfCode in android development with Java. Figured out catching and throwing exceptions in Java. Impl\xe2\x80\xa6', Positive
+b'Day 0\xe2\x83\xa31\xe2\x83\xa3 of my #150DaysOfCode in android development with Java. Figured out catching and throwing exceptions in Jav\xe2\x80\xa6 https://t.co/FmnKhmRTCh', Positive
+b'RT @laideyygee: The Mobile Web Specialist track has got my brain working full time.\xf0\x9f\x98\xaf\xf0\x9f\x98\xbb #150DaysOfALC4 @Andela_Nigeria @growwithgoogle', Positive
+b'The Mobile Web Specialist track has got my brain working full time.\xf0\x9f\x98\xaf\xf0\x9f\x98\xbb #150DaysOfALC4 @Andela_Nigeria @growwithgoogle', Positive
+b'RT @Benmexy1: #ALCwithGoogle #150DaysOfALC4 Awesome moments.', Positive
+b'#ALCwithGoogle #150DaysOfALC4 Awesome moments.', Positive
+b'RT @Vikilinho: I enjoyed the way you handled the ALC4  Meet up. Great job boss, although I am team #AndroidDevelopment \n@timtech4u \n#150Day\xe2\x80\xa6', Positive
+b'I enjoyed the way you handled the ALC4  Meet up. Great job boss, although I am team #AndroidDevelopment \n@timtech4u\xe2\x80\xa6 https://t.co/1nr2e4H7t6', Positive
+b'RT @dchikumba: Enjoying  Deep Dive 1: Google Cloud Platform Fundamentals: Core Infrastructure\n#150DaysOfALC4  @pluralsight  @Andela @Google\xe2\x80\xa6', Positive
+b"RT @etienam_ini: Day 16/150: I have been battling with an issue for hours now. My prefixed stylesheet doesn't seem to work the same as my n\xe2\x80\xa6", Negative
+b'RT @transcendence09: Day 11: Semantic HTML completed: Finalized with sematic forms with the use of proper attribute type: email,tel,text et\xe2\x80\xa6', Negative
+b"RT @ZarciaZA: I just posted an error filled terminal window on my instastories... Hardly 10minutes later, I'm winning. Now I'm not seeing f\xe2\x80\xa6", Positive
+b'RT @Eeskay01: @samerbuna @pluralsight @Andela_Nigeria @googleafrica @craigshoemaker @andela_alc @housecor Day 15 #150DaysOfALC4 \n\xe2\x9e\xa1\xef\xb8\x8f HTTP  C\xe2\x80\xa6', Negative
+b'@samerbuna @pluralsight @Andela_Nigeria @googleafrica @craigshoemaker @andela_alc @housecor Day 15 #150DaysOfALC4\xe2\x80\xa6 https://t.co/LHgVsKx8zW', Negative
+b'RT @dchikumba: Enjoying  Deep Dive 1: Google Cloud Platform Fundamentals: Core Infrastructure\n#150DaysOfALC4  @pluralsight  @Andela @Google\xe2\x80\xa6', Positive
+b'Enjoying  Deep Dive 1: Google Cloud Platform Fundamentals: Core Infrastructure\n#150DaysOfALC4  @pluralsight\xe2\x80\xa6 https://t.co/TOJbr5S1i2', Positive
+b"RT @etienam_ini: Day 16/150: I have been battling with an issue for hours now. My prefixed stylesheet doesn't seem to work the same as my n\xe2\x80\xa6", Negative
+b"Day 16/150: I have been battling with an issue for hours now. My prefixed stylesheet doesn't seem to work the same\xe2\x80\xa6 https://t.co/AfY4BRCU2C", Negative
+b'RT @Emysilva1234: @pluralsight @Andela_Nigeria More updates on the Web app \n#150DaysOfALC4 #GrowWithGoogle \n@pluralsight @Andela_Nigeria ht\xe2\x80\xa6', Positive
+b'@pluralsight @Andela_Nigeria More updates on the Web app \n#150DaysOfALC4 #GrowWithGoogle \n@pluralsight\xe2\x80\xa6 https://t.co/WCeYlnKTXe', Positive
+b'RT @transcendence09: Day 11: Semantic HTML completed: Finalized with sematic forms with the use of proper attribute type: email,tel,text et\xe2\x80\xa6', Negative
+b'Day 11: Semantic HTML completed: Finalized with sematic forms with the use of proper attribute type: email,tel,text\xe2\x80\xa6 https://t.co/4NSea38fUq', Negative
+b"RT @ZarciaZA: I just posted an error filled terminal window on my instastories... Hardly 10minutes later, I'm winning. Now I'm not seeing f\xe2\x80\xa6", Positive
+b"I just posted an error filled terminal window on my instastories... Hardly 10minutes later, I'm winning. Now I'm no\xe2\x80\xa6 https://t.co/cmdaxOPXb5", Positive
+b"RT @GnakadjaAlex: #150DaysOfALC4 Great course of Mark Zamoyta on Javascript fundamentals  @pluralsight .... I'm getting confident\xf0\x9f\x99\x83\xf0\x9f\x99\x83\xf0\x9f\x99\x83\n@Andel\xe2\x80\xa6", Positive
+b'RT @OmotosoYusuf: While learning about the Video and Audio elements, I was still wondering how the images that displays like a background t\xe2\x80\xa6', Negative
+b"RT @Ratclad: Failures are failures when we don't learn from them but when we learn from them they become lessons... Owning my learning. #15\xe2\x80\xa6", Negative
+b"RT @Lifeofdan_el: Day 14\n\nLooked at parameter immutability, found out that when we assign values to variables we're just making references\xe2\x80\xa6", Negative
+b'RT @andrew58934: Performing life cycle aware data loading (sqlite) @Android @Andela_UG #150DaysOfALC4', Positive
+b'RT @andrew58934: Performing life cycle aware data loading (sqlite) @Android @Andela_UG #150DaysOfALC4', Positive
+b"RT @GnakadjaAlex: #150DaysOfALC4 Great course of Mark Zamoyta on Javascript fundamentals  @pluralsight .... I'm getting confident\xf0\x9f\x99\x83\xf0\x9f\x99\x83\xf0\x9f\x99\x83\n@Andel\xe2\x80\xa6", Positive
+b"#150DaysOfALC4 Great course of Mark Zamoyta on Javascript fundamentals  @pluralsight .... I'm getting confident\xf0\x9f\x99\x83\xf0\x9f\x99\x83\xf0\x9f\x99\x83\xe2\x80\xa6 https://t.co/v7SJBEsq7o", Positive
+b"RT @Andela_UG: We're excited to announce that the 1st phase of Learning for ALC 4.0 has begun. \xf0\x9f\x9a\x80\xf0\x9f\x8d\xbe\n\nWe'd like to congratulate all shortliste\xe2\x80\xa6", Positive
+b"RT @Andela_UG: We're excited to announce that the 1st phase of Learning for ALC 4.0 has begun. \xf0\x9f\x9a\x80\xf0\x9f\x8d\xbe\n\nWe'd like to congratulate all shortliste\xe2\x80\xa6", Positive
+b"RT @Andela_UG: It's official! \xf0\x9f\x93\xa2 ALC is now on social media. You heard us right!\n\nTwitter; @andela_alc \nFacebook page; https://t.co/3fRfWPo8\xe2\x80\xa6", Positive
+b'RT @Frankie_codes: Day(s) 11-14 #150DaysOfALC4 so Internet is partially working. I have been watching my @pluralsight course offline thank\xe2\x80\xa6', Negative
+b"RT @Andela_UG: It's official! \xf0\x9f\x93\xa2 ALC is now on social media. You heard us right!\n\nTwitter; @andela_alc \nFacebook page; https://t.co/3fRfWPo8\xe2\x80\xa6", Positive
+b'RT @abubakarfasaha: Day 16: Today I launched "Building a JavaScript Development Environment" course by Cory House @housecor @pluralsight\n\nL\xe2\x80\xa6', Negative
+b'@davidconoh @150DaysOfALC4 @andela_alc Yes it should, except for the dot before your console.log(a) \xf0\x9f\x98\x89', Negative
+b"@Adeinfo1 @150DaysOfALC4 If you think you aren't getting the topics well enough, you could support your learning with @freeCodeCamp guide.", Negative
+b'@I_am_Abigurl @150DaysOfALC4 Welcome Abigail', Positive
+b'RT @OmotosoYusuf: While learning about the Video and Audio elements, I was still wondering how the images that displays like a background t\xe2\x80\xa6', Negative
+b'While learning about the Video and Audio elements, I was still wondering how the images that displays like a backgr\xe2\x80\xa6 https://t.co/P2ipaLrYQn', Negative
+b'RT @SirElvis01: Thank you \xf0\x9f\x99\x8fvery much guys  For the Best Wishes. I Promise to Make Kenya \xf0\x9f\x87\xb0\xf0\x9f\x87\xaa  Proud\n\nType YES WE CAN! if You believe we can #\xe2\x80\xa6', Positive
+b"RT @silikhesilas: Day 16 of #150DaysOfALC4,\ncovered module 1 of Gerald Cohen's course\nDesighned a sign in /sign up form\n@Andela_Kenya,\n@goo\xe2\x80\xa6", Negative
+b"Day 16 of #150DaysOfALC4,\ncovered module 1 of Gerald Cohen's course\nDesighned a sign in /sign up form\n@Andela_Kenya\xe2\x80\xa6 https://t.co/JwNDXymVqW", Negative
+b"RT @Ratclad: Failures are failures when we don't learn from them but when we learn from them they become lessons... Owning my learning. #15\xe2\x80\xa6", Negative
+b"Failures are failures when we don't learn from them but when we learn from them they become lessons... Owning my le\xe2\x80\xa6 https://t.co/lAG5IuGb77", Negative
+b"RT @Andela_Nigeria: We're stoked to announce that the 1st phase of Learning for ALC 4.0 has begun. \xf0\x9f\x9a\x80\xf0\x9f\x8d\xbe\n\nWe'd like to congratulate all shortl\xe2\x80\xa6", Negative
+b"RT @Lifeofdan_el: Day 14\n\nLooked at parameter immutability, found out that when we assign values to variables we're just making references\xe2\x80\xa6", Negative
+b"Day 14\n\nLooked at parameter immutability, found out that when we assign values to variables we're just making refer\xe2\x80\xa6 https://t.co/8G7gwgBrJj", Negative
+b'RT @OkamgbaDestiny: Just finished learning the fundamentals of cloud computing by @davidmdavis on @pluralsight .Was very resourceful. Next\xe2\x80\xa6', Positive
+b'RT @GodwinAgedah: Day 16/150\nPerformed Exercises on @RWD, grey columns stack on mobile, but display inline on desktop. \xf0\x9f\x96\xa5\xef\xb8\x8f\n#150DaysOfALC4 #A\xe2\x80\xa6', Negative
+b'Day 16/150\nPerformed Exercises on @RWD, grey columns stack on mobile, but display inline on desktop. \xf0\x9f\x96\xa5\xef\xb8\x8f\xe2\x80\xa6 https://t.co/JwUtnyvZKe', Negative
+b'RT @andrew58934: Performing life cycle aware data loading (sqlite) @Android @Andela_UG #150DaysOfALC4', Positive
+b'Performing life cycle aware data loading (sqlite) @Android @Andela_UG #150DaysOfALC4', Positive
+b'RT @TheGreatCoder: #150DaysOfALC4 #GrowWithGoogle #ALC_4.0 @andela_alc\n\n1. Working with Navigation Drawer\n2. Testing Menu, Navigation Drawe\xe2\x80\xa6', Negative
+b'#150DaysOfALC4 #GrowWithGoogle #ALC_4.0 @andela_alc\n\n1. Working with Navigation Drawer\n2. Testing Menu, Navigation\xe2\x80\xa6 https://t.co/M4w9vWsZRq', Negative
+b'RT @jpoghene: Every company will soon become a data company; It\xe2\x80\x99s only a matter of time #alc_4.0 #GrowWithGoogle #150DaysOfALC4', Negative
+b'RT @MakavuraM: \xe2\x80\x9cCloud native architecture | Day 9/150\xe2\x80\x9d by Makavura Mughanga https://t.co/gvi5I8TCnI\n#150DaysOfALC4 #GrowWithGoogle #alc4 #p\xe2\x80\xa6', Negative
+b'\xe2\x80\x9cCloud native architecture | Day 9/150\xe2\x80\x9d by Makavura Mughanga https://t.co/gvi5I8TCnI\n#150DaysOfALC4 #GrowWithGoogle #alc4 #pluralsight', Negative
+b'RT @MMDAfegbua: Philipp Maier: "This lab would original take 45minutes, but you will be given 90minutes."\nMe: After 89minutes, "Is it me or\xe2\x80\xa6', Positive
+b'RT @maxfez: Done with Essential cloud infrastructure on @pluralsight @qwiklabs Adding persistent environment variables to the shell profile\xe2\x80\xa6', Negative
+b'RT @Vikilinho: Day \xf0\x9f\x94\xb210/150\n ALC4.0 \n#AndroidDeveloper \n#150DaysOfALC4 \n#ALCwithGoogle \n#GrowWithGoogle\n@andela_alc @pluralsight \n@Andela_Ni\xe2\x80\xa6', Negative
+b'RT @musti_ngure: Traits of cloud \nElastic - scales up or down quickly\nMetered - pay only for what you use\nSelf-service - no (or reduced) ne\xe2\x80\xa6', Positive
+b'RT @OgunlanaOluwas6: ALC 4.0 First Meetup 2019!!\n@collins_celeb \n #ALC4withGoogle\n#GrowWithGoogle \n#ALC4.0Oshodi_Isolo\n#150DaysOfALC4 https\xe2\x80\xa6', Positive
+b'RT @darctrac3: Day 12/150: \n1. Went through types of databases and useful database libraries in android.\n2. Compared sugar ORM, DBFlow, Ank\xe2\x80\xa6', Positive
