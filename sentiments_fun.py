@@ -4,11 +4,11 @@ from textblob import TextBlob
 import numpy as np
 import operator
 
-consumer_key = '9g4nXuw7FEMGuoZVg0QtwMgTg'
-consumer_secret = 'TjezDJ7xoDXvqJFZDtDlNJYTmMmfHAVUevF1bafyFRJiafehta'
+consumer_key = ""
+consumer_secret = ""
 
-access_token = '973830516691611648-nYuLxBk0T1m0Ki8t2PN6GjSRQBtqCTy'
-access_token_secret = 'YGsgrmQkFawCmzTNiTUyJNk8UMvyWw1W6rC3naWmukXGy'
+access_token = ""
+access_token_secret = ""
 
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
